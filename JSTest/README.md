@@ -1,5 +1,5 @@
 
-Solnet Javascript Exercise
+XXX Javascript Exercise
 ==========================
 As  part of our recruitment process we ask all our candidates to complete the following programming exercise.
 
