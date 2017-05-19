@@ -6,8 +6,6 @@ As  part of our recruitment process we ask all our candidates to complete the fo
 The problem will require some thinking about and can be solved via multiple approaches,
 to varying degrees of efficiency, this is what we will be  evaluating.
 
-If you have any questions please feel free to contact us for clarification (preetesh.chauhan@solnet.co.nz).
-
 SETUP
 -----
 
@@ -30,6 +28,3 @@ The solution must pass the jasmine unit tests provided, the results of which are
 Once you solution is running, try unskipping (remove the x from the 'it' keyword) the tests for larger ranges, to evaluate how efficient your solution is.
 A well thought-out and optimised solution will be able to run these large ranges in a few seconds.
 
-SUBMISSION
-----------
-Rename your script.js to script.txt and email the file to preetesh.chauhan@solnet.co.nz
